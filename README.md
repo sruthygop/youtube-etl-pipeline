@@ -27,6 +27,8 @@
 
 ## 🏗️ Architecture
 
+![Architecture](architecture/architecture.png)
+
 ```
 YouTube Data API v3
         ↓
