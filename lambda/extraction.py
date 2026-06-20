@@ -36,7 +36,7 @@ def lambda_handler(event, context):
             Body=json.dumps(data)
         )
 
-        print(f"✅ Raw data saved → {len(data.get('items', []))} videos")
+        print(f" Raw data saved → {len(data.get('items', []))} videos")
         return {
             "statusCode": 200,
             "body": "Data extracted successfully"
