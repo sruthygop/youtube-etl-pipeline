@@ -6,6 +6,7 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 
 > An end-to-end **automated data pipeline** that extracts YouTube trending videos data using the YouTube Data API v3, transforms and cleans it using AWS Lambda, stores it in Amazon S3, catalogs it using AWS Glue, queries it using Amazon Athena, and visualizes insights using **Power BI**.
 
