@@ -77,6 +77,7 @@ youtube-etl-pipeline/
 ├── lambda/
 │   ├── extraction.py         # Fetches data from YouTube API → S3 Raw
 │   └── transformation.py     # Cleans data → saves as Parquet to S3
+├── architecture.png          # AWS pipeline architecture diagram
 ├── dashboard/
 │   └── youtube_dashboard.jpg # Power BI Dashboard screenshot
 └── README.md
@@ -138,7 +139,7 @@ youtube-transformed-data-etl/
 
 ## 📈 Dashboard
 
-![YouTube Analytics Dashboard](dashboard/youtube_dashboard.jpg)
+![YouTube Analytics Dashboard](dashboard/Youtube_dashboard.jpg)
 
 ### Visualizations:
 | Visual | Type | Description |
