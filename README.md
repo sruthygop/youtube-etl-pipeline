@@ -66,7 +66,7 @@ Power BI Dashboard (Visualization)
 | **Amazon Athena** | SQL querying on S3 data |
 | **Amazon EventBridge** | Automated pipeline scheduling |
 | **Power BI Desktop** | Interactive dashboard & visualization |
-| **Pandas & PyArrow** | Data transformation & Parquet conversion |
+| **Pandas** | Data transformation & Parquet conversion |
 
 ---
 
